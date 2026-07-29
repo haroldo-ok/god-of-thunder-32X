@@ -4,6 +4,8 @@ A port of the 1993 DOS game *God of Thunder* (Ron Davis / Adept Software) to
 the Sega 32X, built from the public-domain source release plus the original
 retail resource file.
 
+Original source: https://github.com/SheridanR/god-of-thunder
+
 **The compiled ROM lives at [`rom/got32x.32x`](rom/got32x.32x)** — 2 MB, a
 self-contained Sega 32X cartridge image with every game asset embedded. No
 external data file is needed.
